@@ -27,11 +27,10 @@ This dashboard provides a detailed analysis of various income sources, allowing 
 - **Yearly Slicer:** Allows users to adjust and view data based on selected years, making it possible to analyze historical performance and trends.
 
 **Screenshot:**
-![Income Sources Dashboard](screenshots/dashboard-income-sources.png)
+![Financial Statistics Dashboard(Income Sources)](https://github.com/user-attachments/assets/5905979f-fabf-4f7c-8181-209691b1e387)
 
 ### 2. **Profits by Country Dashboard**
 
-#### **What It Tells:**
 This dashboard focuses on the geographical distribution of profits, providing insights into how different regions contribute to overall profitability. Key features include:
 
 - **Dynamic Map Chart:** Visualizes profit values by country, highlighting the most profitable regions and offering a geographic perspective on financial performance.
@@ -43,25 +42,14 @@ This dashboard focuses on the geographical distribution of profits, providing in
 - **Yearly Slicer:** Lets users select different years to see how profit distribution and tax details change over time.
 
 **Screenshot:**
-![Profits by Country Dashboard](screenshots/dashboard-profits-by-country.png)
+![Financial Statistics Dashboard(Geographically)](https://github.com/user-attachments/assets/5a49ba8e-5635-4014-9b3b-4dd3c6e15c08)
+
 
 ## How to Use
 
 1. **Download the Excel File:** Obtain the Financial_Statistics_Dashboards.xlsx file from the repository.
 2. **Open the File:** Use Microsoft Excel to open and interact with the dashboards.
 3. **Explore the Dashboards:** Use the slicers to adjust the data by year and explore the various charts and visualizations.
-
-## Screenshots
-
-- **Income Sources Dashboard:**
-  ![Income Sources Dashboard](screenshots/dashboard-income-sources.png)
-  
-- **Profits by Country Dashboard:**
-  ![Profits by Country Dashboard](screenshots/dashboard-profits-by-country.png)
-
-- **Pivot Tables and Dataset:**
-  ![Pivot Tables](screenshots/pivot-tables.png)
-  ![Dataset Sample](screenshots/dataset-sample.png)
 
 
 ## Dataset and Pivot Tables Overview
@@ -87,10 +75,10 @@ The Financial Statistics Dashboard System utilizes two primary datasets, each de
 - This dataset is structured to provide detailed insights into income sources, their performance, and related marketing strategies. It includes monthly and yearly breakdowns, allowing users to track income trends, compare actual income to targets, and evaluate the effectiveness of different marketing strategies.
 
 **Example Screenshot:**
-![Income Sources Dataset](screenshots/dataset-income-sources.png)
+![Financial Statistics Dashboard(Income Sources dataset)](https://github.com/user-attachments/assets/368b0c42-37b9-4b70-8704-5baf6c839ae2)
 
 
-#### **1. Geographical Profits Dataset (Second Dashboard)**
+#### **2. Geographical Profits Dataset (Second Dashboard)**
 
 **Headers:**
 - **Year:** Fiscal year for data recording.
@@ -102,7 +90,7 @@ The Financial Statistics Dashboard System utilizes two primary datasets, each de
 - This dataset captures profit data segmented by country and year. It is crucial for assessing geographic performance and comparing actual profits against targets. By including the target values, users can easily identify regions that meet or exceed expectations and those that fall short.
 
 **Example Screenshot:**
-![Geographical Profits Dataset](screenshots/dataset-geographical-profits.png)
+![Financial Statistics Dashboard(Geographically dataset)](https://github.com/user-attachments/assets/1365cb13-ec18-47ab-afbc-037d5f481c4a)
 
 **Purpose:**
 - Facilitates analysis of profit distribution across different countries.
@@ -120,9 +108,6 @@ Pivot tables play a vital role in summarizing and visualizing data, enabling use
   - **Total Profit by Country:** Shows overall profit for each country.
   - **Profit vs. Target:** Compares actual profits to target values, highlighting areas of success and those needing improvement.
 
-**Example Screenshot:**
-![Geographical Profits Pivot Table](screenshots/pivot-geographical-profits.png)
-
 **Usage:**
 - Allows users to filter data by year and country to see detailed profit insights.
 - Provides a clear view of geographic profitability and performance against targets.
@@ -136,13 +121,12 @@ Pivot tables play a vital role in summarizing and visualizing data, enabling use
   - **Income vs. Target:** Compares actual income to target values for performance assessment.
   - **Operating Profits and Marketing Strategies:** Aggregates operating profits and evaluates the impact of marketing strategies.
 
-**Example Screenshot:**
-![Income Sources Pivot Table](screenshots/pivot-income-sources.png)
-
 **Usage:**
 - Enables users to analyze income performance over time and by source.
 - Helps in understanding how marketing strategies influence income and identifying trends or anomalies.
 
+**Example Screenshot:**
+![Financial Statistics Dashboard(Pivot table)](https://github.com/user-attachments/assets/63ae170e-351f-4450-bb24-b671eacf991d)
 
 ## Conclusion
 
