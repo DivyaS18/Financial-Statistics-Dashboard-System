@@ -75,6 +75,7 @@ The Financial Statistics Dashboard System utilizes two primary datasets, each de
 - This dataset is structured to provide detailed insights into income sources, their performance, and related marketing strategies. It includes monthly and yearly breakdowns, allowing users to track income trends, compare actual income to targets, and evaluate the effectiveness of different marketing strategies.
 
 **Example Screenshot:**
+
 ![Financial Statistics Dashboard(Income Sources dataset)](https://github.com/user-attachments/assets/368b0c42-37b9-4b70-8704-5baf6c839ae2)
 
 
